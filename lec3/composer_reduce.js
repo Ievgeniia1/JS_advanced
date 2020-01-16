@@ -16,9 +16,7 @@ function mul2(x) {
 
 function compose(...args){
     return function (param) {
-        num = args.reduce((acc,val)=> {
-
-        })
+        // REDUCE ARRAY
     }
 }
 
