@@ -26,7 +26,7 @@ class Triangle extends Figure {
         console.log("I'm triangle")
     }
 }
-class IsoscelesTriangle extends Figure {
+class IsoscelesTriangle extends Triangle {
     //равнобедренный
     welcome() {
         console.log("I'm isosceles triangle")
